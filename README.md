@@ -1,3 +1,3 @@
-# alarm
+# alarm site
 
 simple alarm notification
